@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Secrets
+.env
+
+# Data & logs (do not commit real user data)
+data/
+logs/
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
